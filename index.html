@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <title>AUla de Realidade Aumentada sobre o Coração</title>
+</head>
+<body>
+    <header>
+        <h1>O Coração Humano</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Projetos</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Bem-vindo à aula!</h2>
+        <p>Nesta aula vamos explorar a realidade aumentada visualizar o Coração humano.</p>
+        <p>Para experimentar aponta a câmera do teu telemóvel para a imagem fornecida em papel:</p>
+        <iframe src='
+            <html>
+              <head>
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+                <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.2.0/dist/mindar-image.prod.js"></script>
+                <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+                <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.2.0/dist/mindar-image-aframe.prod.js"></script>
+              </head>
+              <body>
+                <a-scene mindar-image="imageTargetSrc: ./targets.mind;" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
+                  <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
+                  <a-entity mindar-image-target="targetIndex: 0">
+                    <a-plane color="blue" opaciy="0.5" position="0 0 0" height="0.552" width="1" rotation="0 0 0"></a-plane>
+                  </a-entity>
+                </a-scene>
+              </body>
+            </html>
+        ' width="640" height="480" frameborder="0"></iframe>
+         </main>
+    <footer>
+        <p>Direitos autorais © 2023 Ana Golçalves</p>
+        <br>
+        <a href="#">Termos de Uso</a> | <a href="#">Política de Privacidade</a></p>
+    </footer>
+</body>
+</html>
