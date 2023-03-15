@@ -1,11 +1,11 @@
 Model Information:
-* title:	Human Brain
-* source:	https://sketchfab.com/3d-models/human-brain-06dd00c44ebd4b4c86475c6c5c33d500
-* author:	RISD Nature Lab (https://sketchfab.com/RISDNaturelab)
+* title:	Human brain, Cerebrum & Brainstem
+* source:	https://sketchfab.com/3d-models/human-brain-cerebrum-brainstem-0aa0e33c5c854d1bab7bac9e1c7acaec
+* author:	FrankJohansson (https://sketchfab.com/pranktoy)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Human Brain" (https://sketchfab.com/3d-models/human-brain-06dd00c44ebd4b4c86475c6c5c33d500) by RISD Nature Lab (https://sketchfab.com/RISDNaturelab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Human brain, Cerebrum & Brainstem" (https://sketchfab.com/3d-models/human-brain-cerebrum-brainstem-0aa0e33c5c854d1bab7bac9e1c7acaec) by FrankJohansson (https://sketchfab.com/pranktoy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
